@@ -1,3 +1,3 @@
 # Ashwin Bhargava
-* UserName: ashwin-bhargava
+* UserName: [ashwin-bhargava](https://github.com/ashwin-bhargava)
 * Location: Charlotte
