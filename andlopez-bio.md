@@ -1,6 +1,6 @@
 ## Andy Lopez
 
-* Username: andlopez
+* Username: [andlopez](http://github.com/andlopez)
 * Location: Phoenix, AZ
 * GitHub Class: 2015
 * Time: 12:05pm
