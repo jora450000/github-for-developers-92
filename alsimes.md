@@ -1,4 +1,4 @@
 # Anthony Simes
 
-* Username:  alsimes
+* Username:  [alsimes](https://github.com/alsimes)
 * Location:  Winston Salem, NC
