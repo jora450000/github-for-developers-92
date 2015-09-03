@@ -1,5 +1,4 @@
-# Bio for Bobby Terrell
-
+# Mr. Bobby Terrell
 * Username: [Bobbyt94] (https://github.com/Bobbyt94/)
 * Work Location: Winston-Salem, NC
 * Hometown: Moravian Falls
