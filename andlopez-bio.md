@@ -1,4 +1,8 @@
-## Mr Andy Lopez, Sr
+<<<<<<< HEAD
+## Andy Lopez
+=======
+# Bio for Andy Lopez
+>>>>>>> master
 
 * Username: [andlopez](http://github.com/andlopez)
 * Location: Phoenix, AZ
