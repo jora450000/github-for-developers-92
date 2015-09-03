@@ -1,8 +1,10 @@
-. Corinne Bosa
+# Corinne Bosa
+#
+# Username: corinnef
+# Location: Antioch, CA 94531
 
-. Username: corinnef
-. Location: Antioch, CA
+# ##### Inspirational quote
 
-. ##### Inspirational quote
+# Blah blah blah
 
-. Blah blah blah
+
