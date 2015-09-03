@@ -1,4 +1,4 @@
-# Brad Naugle
+# Bio for Brad Naugle
 
 
 
@@ -10,4 +10,3 @@
 ### Inspirational quote
 
 "Blah blah blah"
-

@@ -1,4 +1,4 @@
-# Mr Joshua Wehner, esq.
+# Joshua Wehner, Instructor
 
 * Username: [jaw6](https://github.com/jaw6)
 * Location: Minneapolis, MN
