@@ -4,7 +4,7 @@
 * Location: Phoenix, AZ
 * GitHub Class: 2015
 * Time: 12:05pm
-* high school: Alhambra high skools
+* high school: Alhambra high schools
 
 ### This class has been awesome
 
