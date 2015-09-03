@@ -4,6 +4,7 @@
 * Location: Minneapolis, MN
 * Hometown: Dayton, OH
 * Favorite food: pizza
+* Breakfast: Waffle
 
 ### Inspirational quote
 
