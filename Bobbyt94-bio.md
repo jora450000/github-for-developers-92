@@ -1,7 +1,8 @@
 # Bobby Terrell
 
 * Username: [Bobbyt94] (https://github.com/Bobbyt94/)
-* Location: Winston-Salem, NC
+* Work Location: Winston-Salem, NC
 * Hometown: Moravian Falls
+* County: Wilkes
 * 
-* Inspirational Quote:  How much wood could a woodchuck chuck if he hadn't been runover by a big red truck.
+* Inspirational Quote:  How much wood could a woodchuck chuck if he hadn't been hit by a big red truck.
