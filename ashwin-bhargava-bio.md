@@ -1,4 +1,4 @@
-# Mr Ashwin Bhargava 
+# Bio for Ashwin Bhargava
 * UserName: [ashwin-bhargava](https://github.com/ashwin-bhargava)
 * Location: Charlotte
 * HomeTown: Ujjain, India
