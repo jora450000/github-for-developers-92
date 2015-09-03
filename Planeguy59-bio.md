@@ -2,7 +2,8 @@
 
 * Planeguy59
 * Chandler AZ
-* Hometown: Chicago, IL
+* Hometown: Chicago, Illinois
+* Favorite food = White Castle
 
 ###Inspirational Quote
 
