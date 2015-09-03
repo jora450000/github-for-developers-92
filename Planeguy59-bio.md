@@ -2,3 +2,10 @@
 
 * Planeguy59
 * Chandler AZ
+* Hometown: Chicago, IL
+* Favorite food = White Castle
+
+###Inspirational Quote
+
+"You miss 100% of the shots you don't take"
+
