@@ -2,6 +2,7 @@
 
 * Planeguy59
 * Chandler AZ
+* Hometown: Chicago, IL
 
 ###Inspirational Quote
 
